@@ -1,6 +1,3 @@
 最初に作ったインフルエンサー応募イベント用のフォームのサンプルです。
 
-## 手順
-```bash
-npm i && npm run dev
-```
+[サンプルサイト](http://asuka-nomura.jp/client-form-sample)
