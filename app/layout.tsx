@@ -6,8 +6,7 @@ export const metadata: Metadata = {
   description:  'client form sample',
 };
 
-export default async function RootLayout({children}: Readonly<{children: React.ReactNode}>) {
-
+export default function RootLayout({children}: Readonly<{children: React.ReactNode}>) {
   return (
       <html lang="ja">
         <body className="max-w-7xl min-h-44 mx-10 my-10 xl:mx-auto p-6 bg-white">
